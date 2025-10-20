@@ -8,7 +8,22 @@ docker push crpi-msecrl1u5nv0ip4j.cn-shenzhen.personal.cr.aliyuncs.com/dockeryun
 
 
 
-
+DockerHub 镜像仓库	是否正常
+http://docker.m.daocloud.io	正常
+http://ccr.ccs.tencentyun.com	正常
+docker.1ms.run	正常
+hub.xdark.top	正常
+dhub.kubesre.xyz	正常
+docker.kejilion.pro	正常
+http://docker.xuanyuan.me	正常
+http://docker.hlmirror.com	正常
+http://run-docker.cn	正常
+http://docker.sunzishaokao.com	正常
+image.cloudlayer.icu	正常
+docker-0.unsee.tech	正常
+docker.tbedu.top	正常
+hub.crdz.gq	正常
+http://docker.melikeme.cn	正常
 
 
 # Docker Images Pusher
