@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 mongo:7.0
 redis:7.0.0
+bitnami/kafka:3.5.1
 peterpoker/zkweb:v1.2.1
 #python:3.10-slim
 #python:3.11-slim
