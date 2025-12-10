@@ -2,6 +2,11 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
+openim/openim-admin-front:release-v1.8.4
+prom/node-exporter:v1.7.0
+openim/openim-web-front:release-v3.8.3
+openim/openim-server:v3.8.3-patch.9
+openim/openim-chat:v1.8.4-patch.2
 openim/openim-api:latest
 openim/openim-crontask:latest
 openim/openim-msggateway:latest
