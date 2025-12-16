@@ -3,6 +3,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 openim/openim-admin-front:release-v1.8.4
+openim/openim-web-front:release-v3.8.3
 prom/node-exporter:v1.7.0
 openim/openim-api:v3.8.3-patch.12
 openim/openim-crontask:v3.8.3-patch.12
