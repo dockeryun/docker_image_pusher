@@ -3,9 +3,9 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 ####coza
+elasticsearch:8.18.0
 mysql:8.4.5
 bitnamilegacy/redis:8.0
-bitnamilegacy/elasticsearch:8.18.0
 minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
 bitnamilegacy/etcd:3.5
 milvusdb/milvus:v2.5.10
@@ -14,6 +14,7 @@ nsqio/nsq:v1.2.1
 nsqio/nsq:v1.2.1
 cozedev/coze-studio-server:latest
 cozedev/coze-studio-web:latest
+1111111111
 ################
 openim/openim-admin-front:release-v1.8.4
 openim/openim-web-front:release-v3.8.3
