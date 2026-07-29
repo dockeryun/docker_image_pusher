@@ -2,6 +2,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
+dmathai/prom-pushgateway-ttl:latest
 jenkins/jenkins:2.387.1
 jenkins/inbound-agent:4.3-3-alpine
 ####coza
